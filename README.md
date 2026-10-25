@@ -356,3 +356,11 @@ class Program
     }
 }
 ```
+
+<picture>
+  <img src="https://github.com/Karpukhin-D/Task-10/blob/main/screens/1.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/Karpukhin-D/Task-10/blob/main/screens/2.png">
+</picture>
