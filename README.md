@@ -2,8 +2,8 @@
 ## Выполнил студент группы П25-2.1 Карпухин Дмитрий
 ---
 
-```csharp
 > * Файл 1: SpaceShuttle.Core.cs (Ядро и данные)
+```csharp
 using System;
 
 public partial class SpaceShuttle
@@ -54,8 +54,8 @@ public partial class SpaceShuttle
 }
 ```
 
-```csharp
 > * Файл 2: SpaceShuttle.Engines.cs (Двигатели и физика полета)
+```csharp
 using System;
 
 public partial class SpaceShuttle
@@ -104,8 +104,8 @@ public partial class SpaceShuttle
 }
 ```
 
-```csharp
 > * Файл 3: SpaceShuttle.Diagnostics.cs (Диагностика и события)
+```csharp
 using System;
 
 public partial class SpaceShuttle
@@ -161,8 +161,8 @@ public partial class SpaceShuttle
 }
 ```
 
-```csharp
 > * Файл 4: Program.cs (Точка входа)
+```csharp
 using System;
 
 class Program
